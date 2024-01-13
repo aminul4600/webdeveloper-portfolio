@@ -28,8 +28,16 @@ nav a{
     border-radius: 5px;
     background: #FD6F0A;
     border:0;
-    padding: 15px 35px;
+    padding: 15px 20px;
     color: white;
     font-size: 20px;
     font-weight: 700;
+}
+.banner{
+    display: flex;
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 300px;
 }
